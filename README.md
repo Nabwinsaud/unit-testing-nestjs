@@ -24,6 +24,12 @@
 
 ## Description
 
+> [!NOTE]
+> This demonstrates only unit testing this repo doesn't contain any business logic
+> It just focuses on how the unit testing is done in Nestjs 
+
+![image](https://github.com/user-attachments/assets/b67a10cd-fb42-476d-a489-85e40227eb63)
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
